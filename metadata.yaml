@@ -1,0 +1,29 @@
+_repo: The-peaceful-atom_70047
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Onyshkewych, Zenowij
+    gutenberg_agent_id: '55565'
+    url: http://www.gutenberg.org/2009/agents/55565
+creator:
+  author:
+    agent_name: Khon, Bernice
+    gutenberg_agent_id: '55564'
+    url: http://www.gutenberg.org/2009/agents/55564
+description: ''
+gutenberg_issued: '2023-02-15'
+identifiers:
+  gutenberg: '70047'
+language: en
+pgterms:marc905: 20230212021946khon
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Don Smith and Laura Natal Rodrigues
+publication_note: '  $aUnited States :$bPrentice Hall Inc., $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The peaceful atom
+url: http://www.gutenberg.org/ebooks/70047
