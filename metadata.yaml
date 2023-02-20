@@ -5,12 +5,17 @@ contributor:
     agent_name: Onyshkewych, Zenowij
     gutenberg_agent_id: '55565'
     url: http://www.gutenberg.org/2009/agents/55565
+covers:
+- cover_type: archival
+  image_path: 70047-h/images/cover.jpg
 creator:
   author:
     agent_name: Khon, Bernice
     gutenberg_agent_id: '55564'
     url: http://www.gutenberg.org/2009/agents/55564
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70047#The-peaceful-atom
 gutenberg_issued: '2023-02-15'
 identifiers:
   gutenberg: '70047'
